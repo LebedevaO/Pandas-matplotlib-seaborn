@@ -1,2 +1,2 @@
-# Skillbox_pandas
+# Pandas, matplotlib, seaborn
 Примеры работ с датафреймами
